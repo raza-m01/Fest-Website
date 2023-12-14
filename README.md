@@ -34,3 +34,23 @@ We welcome contributions to enhance and improve the website. Feel free to fork t
 If you encounter any issues or have suggestions for improvement, please open an issue on the repository. We appreciate your feedback!
 
 Thank you for being a part of the Insignia’23 Fest Website project! 🚀
+
+# Screenshot
+
+![Screenshot (887)](https://github.com/raza-m01/Fest-Website/assets/113848902/b998e5c9-bb3f-4865-84c3-b99e2bf485e0)
+
+![Screenshot (888)](https://github.com/raza-m01/Fest-Website/assets/113848902/014b76b3-b596-45ba-aa94-4a34c64c43b7)
+
+![Screenshot (889)](https://github.com/raza-m01/Fest-Website/assets/113848902/d1e0afc9-8006-4b4f-a65c-4d3a6603309c)
+
+![Screenshot (890)](https://github.com/raza-m01/Fest-Website/assets/113848902/6501d435-669c-4a69-baa0-32ee5bdca4ed)
+
+![Screenshot (891)](https://github.com/raza-m01/Fest-Website/assets/113848902/cd9bac72-f80f-423c-828d-ceab3be32fad)
+
+![Screenshot (892)](https://github.com/raza-m01/Fest-Website/assets/113848902/59d857a4-0ab5-4430-a18f-72001ce273d4)
+
+![Screenshot (893)](https://github.com/raza-m01/Fest-Website/assets/113848902/aac03315-03a3-41d2-b365-4b36ccf8f164)
+
+![Screenshot (894)](https://github.com/raza-m01/Fest-Website/assets/113848902/09af228f-2b45-41d7-a141-c1c769786675)
+
+![Screenshot (895)](https://github.com/raza-m01/Fest-Website/assets/113848902/4496f387-dac9-4cfe-9c1d-d4aafa239c27)
